@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F55F735C2650F6D600858513 /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55F735B2650F6D600858513 /* WorldView.swift */; };
 		F5C9F664264FF53400301BB9 /* TrekrApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5C9F663264FF53400301BB9 /* TrekrApp.swift */; };
 		F5C9F666264FF53400301BB9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5C9F665264FF53400301BB9 /* ContentView.swift */; };
 		F5C9F668264FF54400301BB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5C9F667264FF54400301BB9 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F55F735B2650F6D600858513 /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
 		F5C9F660264FF53400301BB9 /* Trekr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trekr.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5C9F663264FF53400301BB9 /* TrekrApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrApp.swift; sourceTree = "<group>"; };
 		F5C9F665264FF53400301BB9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				F5C9F663264FF53400301BB9 /* TrekrApp.swift */,
+				F55F735B2650F6D600858513 /* WorldView.swift */,
 				F5C9F665264FF53400301BB9 /* ContentView.swift */,
 				F5C9F67B26500BC000301BB9 /* Locations.swift */,
 				F5C9F6782650083300301BB9 /* Location.swift */,
@@ -154,6 +157,7 @@
 			files = (
 				F5C9F666264FF53400301BB9 /* ContentView.swift in Sources */,
 				F5C9F6792650083300301BB9 /* Location.swift in Sources */,
+				F55F735C2650F6D600858513 /* WorldView.swift in Sources */,
 				F5C9F67C26500BC000301BB9 /* Locations.swift in Sources */,
 				F5C9F664264FF53400301BB9 /* TrekrApp.swift in Sources */,
 			);
